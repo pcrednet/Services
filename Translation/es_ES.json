@@ -1,0 +1,14 @@
+{
+    "service": "Servicio",
+    "services": "Servicios",
+    "start-hour": "Hora de inicio",
+    "end-hour": "Hora de finalización",
+    "warranty": "Garantía",
+    "service-data": "Datos del servicio",
+    "detail": "Datos de facturación",
+    "product-status": "Estado",
+    "product-service": "Artículo para reparar",
+    "accesories": "Accesorios",
+    "solution": "Solución",
+    "dates": "Fechas"
+}

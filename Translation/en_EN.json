@@ -1,0 +1,14 @@
+{
+    "service": "Service",
+    "services": "Services",
+    "start-hour": "Start time",
+    "end-hour": "End time",
+    "warranty": "Warranty",
+    "service-data": "Service data",
+    "detail": "Billing data",
+    "product-status": "Product status",
+    "product-service": "Product to check",
+    "accesories": "Accesories",
+    "solution": "Solution",
+    "dates": "Dates"
+}
